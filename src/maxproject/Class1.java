@@ -6,6 +6,14 @@ public class Class1 {
 		System.out.println("class 1 implementation.. ");
 	}
 	
+	public void method2()
+	{
+		System.out.println("adding another method from develoepr 1");
+	}
+	
+	
+	
+	
 }
 
 
