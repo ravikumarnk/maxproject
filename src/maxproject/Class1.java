@@ -12,6 +12,15 @@ public class Class1 {
 	}
 	
 	
+	public void method3()
+	{
+		System.out.println("adding another method from develoepr 1");
+	}
+	
+	
+	
+	
+	
 	
 	
 }
